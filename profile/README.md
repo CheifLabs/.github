@@ -1,32 +1,25 @@
 # Cheif Labs
 
-> Building tools we wish existed.
+**Small studio. Big swings.**
 
-Independent software studio shipping practical products across financial services, on-demand marketplaces, and creator tooling. Small team. Fast stack. AI-augmented from inbox to prod.
+We ship products in financial services, home services, and creator tooling — and we ship a lot of them, because the team is mostly us plus a swarm of AI agents that don't sleep.
 
-## What we're building
+---
 
-### 🗓 MyMeetings
-AI meeting assistant — capture every conversation, surface what mattered, never take notes again.
-→ [mymeetings-app-sigma.vercel.app](https://mymeetings-app-sigma.vercel.app)
+## Shipping now
 
-### 🔧 GetHandy
-On-demand home services — connect homeowners with vetted trades, fast.
-→ [gethandy-website.vercel.app](https://gethandy-website.vercel.app)
+→ **[MyMeetings](https://mymeetings-app-sigma.vercel.app)** — meetings that write their own notes
+→ **[GetHandy](https://gethandy-website.vercel.app)** — three taps to a trusted handyman
+→ **[Gaming Clip Pipeline](https://github.com/CheifLabs/gaming-clip-pipeline-releases)** — gameplay in, highlight reels out
 
-### 🎮 Gaming Clip Pipeline
-Automated capture → process → publish pipeline for gaming highlights.
-→ [Public releases](https://github.com/CheifLabs/gaming-clip-pipeline-releases)
+## Cooking
 
-*More in the oven — bookkeeping AI, lyric video tooling, voice agents.*
+Voice receptionists. AI bookkeeping. Insurance mobile suites. Lyric video machines. Trading bots. If it looks like it shouldn't be possible for a team this size — that's the point.
 
-## How we work
+## Stack
 
-- Small team. Ship daily. AI everywhere — inbox to prod.
-- TypeScript end to end. Expo for native, Next.js for web, Supabase for data, Vercel for ship.
-- Open source what we can. Keep the moat small.
+TypeScript · Expo · Next.js · Supabase · Vercel · Claude · ship-it
 
-## Find us
+## Talk to us
 
-- Founder: [@TrackerXXX23](https://github.com/TrackerXXX23) — Chet Paslawski
-- Reach out: [chet@pcmfinancial.ca](mailto:chet@pcmfinancial.ca)
+[@TrackerXXX23](https://github.com/TrackerXXX23) · [chet@pcmfinancial.ca](mailto:chet@pcmfinancial.ca)
