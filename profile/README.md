@@ -100,7 +100,7 @@ Tell GetHandy what you need and post it to the marketplace. Local providers send
 
 ---
 
-## Gaming Clip Pipeline
+## Clip Pipeline
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
@@ -111,9 +111,9 @@ Tell GetHandy what you need and post it to the marketplace. Local providers send
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
-Records gameplay in the background, finds the moments worth keeping, edits, captions, and uploads them while you sleep. Originally built for a streamer friend who was tired of clipping his own footage.
+A free video editor built for gamers. Cut shorts and highlights fast — no subscription, no watermark, no sitting in a timeline for an hour. Launched first for Arc Raiders players, but the workflow ports to any game. Think of it as a CapCut replacement that actually understands what a clip is supposed to look like.
 
-Public releases over at [gaming-clip-pipeline-releases](https://github.com/CheifLabs/gaming-clip-pipeline-releases).
+Download at [clippipeline.vercel.app](https://clippipeline.vercel.app).
 
 ---
 
