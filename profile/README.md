@@ -2,6 +2,8 @@
 
 Software studio out of Canada. We make consumer apps, internal tools, and a fair amount of weird infrastructure for people who don't have engineering teams. Most of it's built by a small team using a lot of AI tooling we wrote for ourselves.
 
+Everything we build sits inside one bigger idea: a second-brain system that gives you bandwidth back. Each tool plugs into the same pattern — capture the context, file it where it belongs, surface it when you need it — so the work of staying organized stops eating your day.
+
 **Languages & UI**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -57,9 +59,11 @@ Software studio out of Canada. We make consumer apps, internal tools, and a fair
 ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
-I built this because I couldn't remember what anyone told me in meetings. Records the call, transcribes it, pulls out the action items, and makes the whole transcript searchable later. Web for now, native is in progress.
+We built this because the other meeting tools hand you action items and then strand you there — to actually connect those items to your CRM, your contacts, your files, anything, you're paying enterprise rates. And even then they don't really connect, the UI is rough, and you end up doing the filing yourself.
 
-Live at [mymeetings-app-sigma.vercel.app](https://mymeetings-app-sigma.vercel.app).
+MyMeetings auto-processes the audio, links every call to the right customer or contact, files it where it belongs, and builds on itself over time — so your practice, business, work, and personal life actually stay organized instead of living in a pile of transcripts.
+
+Currently in closed beta at [app.mymeetings.ai](https://app.mymeetings.ai/login) — web, iOS, and Android.
 
 ---
 
