@@ -79,7 +79,22 @@ Currently in closed beta at [app.mymeetings.ai](https://app.mymeetings.ai/login)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-A marketplace for finding a trusted local handyman. Three taps from "my faucet is dripping" to "someone is on the way." Currently in private beta on iOS and Android.
+Tell GetHandy what you need and post it to the marketplace. Local providers send quotes, you pick, you pay in-app. Funds are held until the job is done. Get your time back and get that to-do list off your back. Private beta on iOS + Android.
+
+**Around the house**
+- Flooring install, drywall, painting
+- Plumbing & electrical fixes
+- Deep cleaning, move-in/move-out
+
+**Outdoor & yard**
+- Cut grass, landscaping, snow removal
+- Build a fence, deck, or garage
+- New concrete pad, driveway, roofing
+
+**Commercial**
+- Site cleaning & light maintenance
+- Seasonal snow contracts
+- Larger builds & renovations
 
 [gethandy.app](https://www.gethandy.app/)
 
