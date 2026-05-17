@@ -79,7 +79,7 @@ Currently in closed beta at [app.mymeetings.ai](https://app.mymeetings.ai/login)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-Tell GetHandy what you need and post it to the marketplace. Local providers send quotes, you pick, you pay in-app. Funds are held until the job is done. Get your time back and get that to-do list off your back. Private beta on iOS + Android.
+Tell GetHandy what you need and post it to the marketplace. Local providers send quotes, you pick, you pay in-app. Funds are held until the job is done. Get your time back and get that to-do list off your back. Private beta on iOS, Android, and web.
 
 **Around the house**
 - Flooring install, drywall, painting
@@ -100,7 +100,7 @@ Tell GetHandy what you need and post it to the marketplace. Local providers send
 
 ---
 
-## Clip Pipeline
+## Gaming Clip Pipeline
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
@@ -111,7 +111,7 @@ Tell GetHandy what you need and post it to the marketplace. Local providers send
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
-A free video editor built for gamers. Cut shorts and highlights fast — no subscription, no watermark, no sitting in a timeline for an hour. Launched first for Arc Raiders players, but the workflow ports to any game. Think of it as a CapCut replacement that actually understands what a clip is supposed to look like.
+Records gameplay in the background, finds the moments worth keeping, edits, captions, and uploads them while you sleep. Originally built for a streamer friend who was tired of clipping his own footage.
 
 Public releases over at [gaming-clip-pipeline-releases](https://github.com/CheifLabs/gaming-clip-pipeline-releases).
 
