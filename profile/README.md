@@ -9,7 +9,7 @@ We ship products in financial services, home services, and creator tooling — a
 ## Shipping now
 
 → **[MyMeetings](https://mymeetings-app-sigma.vercel.app)** — meetings that write their own notes
-→ **[GetHandy](https://gethandy-website.vercel.app)** — three taps to a trusted handyman
+→ **[GetHandy](https://www.gethandy.app/)** — three taps to a trusted handyman
 → **[Gaming Clip Pipeline](https://github.com/CheifLabs/gaming-clip-pipeline-releases)** — gameplay in, highlight reels out
 
 ## Cooking
