@@ -22,4 +22,4 @@ TypeScript · Expo · Next.js · Supabase · Vercel · Claude · ship-it
 
 ## Talk to us
 
-[@TrackerXXX23](https://github.com/TrackerXXX23) · [chet@pcmfinancial.ca](mailto:chet@pcmfinancial.ca)
+[@TrackerXXX23](https://github.com/TrackerXXX23) · [chet@gethandy.app](mailto:chet@gethandy.app)
