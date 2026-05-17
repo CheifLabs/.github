@@ -1,25 +1,47 @@
 # Cheif Labs
 
-**Small studio. Big swings.**
-
-We ship products in financial services, home services, and creator tooling — and we ship a lot of them, because the team is mostly us plus a swarm of AI agents that don't sleep.
+Software studio out of Canada. We make consumer apps, internal tools, and a fair amount of weird infrastructure for people who don't have engineering teams. Most of it's built by a small team using a lot of AI tooling we wrote for ourselves.
 
 ---
 
-## Shipping now
+## MyMeetings
 
-→ **[MyMeetings](https://mymeetings-app-sigma.vercel.app)** — meetings that write their own notes
-→ **[GetHandy](https://www.gethandy.app/)** — three taps to a trusted handyman
-→ **[Gaming Clip Pipeline](https://github.com/CheifLabs/gaming-clip-pipeline-releases)** — gameplay in, highlight reels out
+I built this because I couldn't remember what anyone told me in meetings. Records the call, transcribes it, pulls out the action items, and makes the whole transcript searchable later. Web for now, native is in progress.
 
-## Cooking
+Live at [mymeetings-app-sigma.vercel.app](https://mymeetings-app-sigma.vercel.app).
 
-Voice receptionists. AI bookkeeping. Insurance mobile suites. Lyric video machines. Trading bots. If it looks like it shouldn't be possible for a team this size — that's the point.
+---
 
-## Stack
+## GetHandy
 
-TypeScript · Expo · Next.js · Supabase · Vercel · Claude · ship-it
+A marketplace for finding a trusted local handyman. Three taps from "my faucet is dripping" to "someone is on the way." Live in Canada on iOS and Android.
 
-## Talk to us
+[gethandy.app](https://www.gethandy.app/)
 
-[@TrackerXXX23](https://github.com/TrackerXXX23) · [chet@gethandy.app](mailto:chet@gethandy.app)
+---
+
+## Gaming Clip Pipeline
+
+Records gameplay in the background, finds the moments worth keeping, edits, captions, and uploads them while you sleep. Originally built for a streamer friend who was tired of clipping his own footage.
+
+Public releases over at [gaming-clip-pipeline-releases](https://github.com/CheifLabs/gaming-clip-pipeline-releases).
+
+---
+
+## The rest of the lab
+
+A bunch of projects in various states of polish — most of them solving a specific problem one of us or a client had.
+
+- **AI Accounting Team** — four-agent pipeline that runs the books for a Canadian CCPC.
+- **PCM Voice Agent** — AI receptionist answering calls for an insurance brokerage in Saskatchewan.
+- **Curbside Cuts** — a butcher shop that ships across the country.
+- **Lyric Video Maker** — Whisper-synced lyric videos built on Remotion.
+- **ChiefBoard** — internal task management we use to keep the rest of this list moving.
+
+A few more we're not ready to talk about yet.
+
+---
+
+## Who runs this
+
+Chet Paslawski. [@TrackerXXX23](https://github.com/TrackerXXX23) on GitHub. [chet@gethandy.app](mailto:chet@gethandy.app).
