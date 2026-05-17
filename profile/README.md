@@ -2,8 +2,6 @@
 
 Software studio out of Canada. We make consumer apps, internal tools, and a fair amount of weird infrastructure for people who don't have engineering teams. Most of it's built by a small team using a lot of AI tooling we wrote for ourselves.
 
-Everything we build sits inside one bigger idea: a second-brain system that gives you bandwidth back. Each tool plugs into the same pattern — capture the context, file it where it belongs, surface it when you need it — so the work of staying organized stops eating your day.
-
 **Languages & UI**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -99,6 +97,8 @@ Tell GetHandy what you need and post it to the marketplace. Local providers send
 [gethandy.app](https://www.gethandy.app/)
 
 ---
+
+<img src="https://raw.githubusercontent.com/CheifLabs/.github/main/profile/images/clippipeline.png" width="72" alt="Clip Pipeline">
 
 ## Clip Pipeline
 
