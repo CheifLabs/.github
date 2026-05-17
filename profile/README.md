@@ -14,7 +14,7 @@ Live at [mymeetings-app-sigma.vercel.app](https://mymeetings-app-sigma.vercel.ap
 
 ## GetHandy
 
-A marketplace for finding a trusted local handyman. Three taps from "my faucet is dripping" to "someone is on the way." Live in Canada on iOS and Android.
+A marketplace for finding a trusted local handyman. Three taps from "my faucet is dripping" to "someone is on the way." Currently in private beta on iOS and Android.
 
 [gethandy.app](https://www.gethandy.app/)
 
@@ -32,8 +32,6 @@ Public releases over at [gaming-clip-pipeline-releases](https://github.com/Cheif
 
 A bunch of projects in various states of polish — most of them solving a specific problem one of us or a client had.
 
-- **AI Accounting Team** — four-agent pipeline that runs the books for a Canadian CCPC.
-- **PCM Voice Agent** — AI receptionist answering calls for an insurance brokerage in Saskatchewan.
 - **Curbside Cuts** — a butcher shop that ships across the country.
 - **Lyric Video Maker** — Whisper-synced lyric videos built on Remotion.
 - **ChiefBoard** — internal task management we use to keep the rest of this list moving.
