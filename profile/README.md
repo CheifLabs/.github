@@ -59,9 +59,9 @@ Everything we build sits inside one bigger idea: a second-brain system that give
 ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
-We built this because the other meeting tools hand you action items and then strand you there — to actually connect those items to your CRM, your contacts, your files, anything, you're paying enterprise rates. And even then they don't really connect, the UI is rough, and you end up doing the filing yourself.
+MyMeetings records and transcribes every call, then auto-processes the whole flow — pulls action items, links the meeting to the right customer or contact, files it where it belongs, and builds on itself over time. Your practice, business, work, and personal life stay organized instead of living in a pile of transcripts you'll never re-read.
 
-MyMeetings auto-processes the audio, links every call to the right customer or contact, files it where it belongs, and builds on itself over time — so your practice, business, work, and personal life actually stay organized instead of living in a pile of transcripts.
+Everything connects out of the box. No enterprise tier required, no four-tool stack, no manual filing.
 
 Currently in closed beta at [app.mymeetings.ai](https://app.mymeetings.ai/login) — web, iOS, and Android.
 
