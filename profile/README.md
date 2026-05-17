@@ -4,6 +4,8 @@ Software studio out of Canada. We make consumer apps, internal tools, and a fair
 
 ---
 
+<img src="https://raw.githubusercontent.com/CheifLabs/.github/main/profile/images/mymeetings.png" width="72" alt="MyMeetings">
+
 ## MyMeetings
 
 I built this because I couldn't remember what anyone told me in meetings. Records the call, transcribes it, pulls out the action items, and makes the whole transcript searchable later. Web for now, native is in progress.
@@ -11,6 +13,8 @@ I built this because I couldn't remember what anyone told me in meetings. Record
 Live at [mymeetings-app-sigma.vercel.app](https://mymeetings-app-sigma.vercel.app).
 
 ---
+
+<img src="https://raw.githubusercontent.com/CheifLabs/.github/main/profile/images/gethandy.png" width="72" alt="GetHandy">
 
 ## GetHandy
 
@@ -28,15 +32,9 @@ Public releases over at [gaming-clip-pipeline-releases](https://github.com/Cheif
 
 ---
 
-## The rest of the lab
+## Custom work
 
-A bunch of projects in various states of polish — most of them solving a specific problem one of us or a client had.
-
-- **Curbside Cuts** — a butcher shop that ships across the country.
-- **Lyric Video Maker** — Whisper-synced lyric videos built on Remotion.
-- **ChiefBoard** — internal task management we use to keep the rest of this list moving.
-
-A few more we're not ready to talk about yet.
+We also take on contract builds for founders and small teams who need to ship something real but don't have an engineering org behind them. If that sounds like you, get in touch.
 
 ---
 
