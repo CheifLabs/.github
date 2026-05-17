@@ -1,6 +1,6 @@
 # Cheif Labs
 
-Software studio out of Canada. We make consumer apps, internal tools, and a fair amount of weird infrastructure for people who don't have engineering teams. Most of it's built by a small team using a lot of AI tooling we wrote for ourselves.
+Software studio out of Canada. We make consumer apps, internal tools, and a fair amount of weird infrastructure for people who don't have engineering teams.
 
 **Languages & UI**
 
