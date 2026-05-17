@@ -28,6 +28,7 @@ Software studio out of Canada. We make consumer apps, internal tools, and a fair
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat&logoColor=black)
 
 ---
